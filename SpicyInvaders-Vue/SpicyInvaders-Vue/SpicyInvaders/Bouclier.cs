@@ -5,8 +5,7 @@ using System.Text;
 
 namespace SpicyInvaders
 {
-    public class AffichageAccueil : Vue
+    public class Bouclier : Vue
     {
-        Console.WriteLine("Hello worlds !");
     }
 }

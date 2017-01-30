@@ -1,0 +1,6 @@
+G:\024-Dossegger-Laydernier-Choffat-Beggah-P_Dev\SpicyInvaders\SpicyInvaders\bin\Debug\SpicyInvaders.exe.config
+F:\NouvelleOrdonnance\PROJETS\032-P_Dev\032-Dossegger-Laydernier-Choffat-Beggah-P_Dev\SpicyInvaders\SpicyInvaders\bin\Debug\SpicyInvaders.exe.config
+C:\Users\laydernisy\Desktop\SpicyInvaders\SpicyInvaders\bin\Debug\SpicyInvaders.exe.config
+F:\PROJETS\032-P_Dev\SpicyInvaders-Vue\SpicyInvaders\bin\Debug\SpicyInvaders.exe.config
+J:\PROJETS\032-P_Dev\SpicyInvaders-Vue\SpicyInvaders\bin\Debug\SpicyInvaders.exe.config
+C:\Users\laydernisy\Desktop\SpicyInvaders-Vue\SpicyInvaders\bin\Debug\SpicyInvaders.exe.config

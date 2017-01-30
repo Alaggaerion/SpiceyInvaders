@@ -2,11 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace SpicyInvaders
 {
-    public class AffichageAccueil : Vue
+    class Program
     {
-        Console.WriteLine("Hello worlds !");
+        static void Main(string[] args)
+        {
+        }
     }
 }
