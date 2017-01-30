@@ -7,5 +7,6 @@ namespace SpicyInvaders
 {
     public class AffichageAccueil : Vue
     {
+        Console.WriteLine("Hello worlds !");
     }
 }
