@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="spicyInvader1._1.Controleur">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controleur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spicyInvader1._1.ControleJeu">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAQABAAAAAAAAAICAAQAACAACAAEBAAAAAAAAA=</HashCode>
+      <FileName>ControleJeu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spicyInvader1._1.ControleMenus">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ControleMenus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spicyInvader1._1.ModeleControleAffichage">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAIAAAAAAAAAAAAgAAAAAAAAAQAAAAI=</HashCode>
+      <FileName>ModeleControleAffichage.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ControleMenus" />
+      <Property Name="ControleJeu" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="spicyInvader1._1.ModeleJeu">
+    <Position X="4.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAoIABAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>ModeleJeu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spicyInvader1._1.ModeleBouclier">
+    <Position X="0.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModeleBouclier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spicyInvader1._1.ModeleEnnemi">
+    <Position X="2.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAgABAAAAAAAOAAA=</HashCode>
+      <FileName>ModeleEnnemi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spicyInvader1._1.ModeleTir">
+    <Position X="4.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIgAAAAAAAAAAAAgAAAAAAAAAEAAA=</HashCode>
+      <FileName>ModeleTir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spicyInvader1._1.ModeleTank">
+    <Position X="7" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAgAAAAAAACAEAAA=</HashCode>
+      <FileName>ModeleTank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spicyInvader1._1.ModeleOvni">
+    <Position X="7" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModeleOvni.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
